@@ -1,3 +1,4 @@
+print("===============================WELCOME TO THE RAMBO CITY SHOPPING CENTER==================================\n")
 def create_shopping_cart():
     """Creates a shopping cart and provides options for user interaction."""
 
