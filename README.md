@@ -1,9 +1,13 @@
 
 # Rambo City Shopping Center - Shopping Cart App
 
+
+![Shopping Cart App](https://github.com/fantastic-rambo/shopping-cart-app/blob/main/image/shopping-cart.png)
+
 ## Overview
 
 Welcome to the Rambo City Shopping Center Shopping Cart App! This application provides a simple and interactive way for users to manage their shopping cart, add items, view the cart contents, remove items, and proceed to checkout.
+
 
 ## Features
 
