@@ -26,8 +26,8 @@ To run the application, make sure you have Python installed. Then, follow these 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/rambo-shopping-cart.git
-   cd rambo-shopping-cart
+   https://github.com/fantastic-rambo/shopping-cart-app.git
+   cd shopping-cart-app
    ```
 
 2. Run the application:
