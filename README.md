@@ -33,7 +33,7 @@ To run the application, make sure you have Python installed. Then, follow these 
 2. Run the application:
 
    ```bash
-   python shopping_cart_app.py
+   python shopping-cart-app.py
    ```
 
 3. Follow the on-screen prompts to interact with the shopping cart.
