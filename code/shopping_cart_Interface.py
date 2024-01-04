@@ -8,10 +8,21 @@ class ShoppingCartApp:
         self.root = tk.Tk()
         self.root.title("Rambo City Shopping Center")
 
+        # Set background color
+        self.root.configure(bg="#ff5733")  # You can change the color code as per your preference
+
         # Increase the size of the window by adjusting the geometry
         self.root.geometry("600x400")
 
-        self.label = tk.Label(self.root, text="Welcome to the Shopping Cart!", font=("Helvetica", 14))
+        # Add a canvas for the logo
+##        self.canvas = tk.Canvas(self.root, width=100, height=100, bg="#e6e6e6")  # Adjust width and height as needed
+##        self.canvas.pack()
+
+        # Add a logo image (replace 'logo.png' with the actual file name)
+##        logo_image = tk.PhotoImage(file="cart-logo.png")  # Make sure to place the logo file in the same directory as your script
+##        self.canvas.create_image(50, 50, image=logo_image)
+
+        self.label = tk.Label(self.root, text="Welcome to the Shopping Cart!", font=("Helvetica", 14), bg="#e6e6e6")
         self.label.pack()
 
         # Increase button sizes and adjust font size
@@ -90,4 +101,3 @@ class ShoppingCartApp:
 if __name__ == "__main__":
     app = ShoppingCartApp()
     app.root.mainloop()
-5
